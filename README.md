@@ -9,4 +9,4 @@ i am a recent IT graduate that is proficient in building dynamic and responsive 
 *   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [sibandadonty@gmail.com](mailto:sibandadonty@gmail.com)
 *   🧠  I'm learning Typescript
-*   🤝  I'm open to collaborating on machine learning, web and mobile applications
+*   🤝  I'm open to collaborating on machine learning, web and mobile applications projects
