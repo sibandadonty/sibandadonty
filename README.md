@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-i am a recent IT graduate that is proficient in building dynamic and responsive web applications using React.js, Node.js, and FastAPI. I also build mobile apps using flutter
+I am a full-stack software developer with a passion for building intuitive, responsive, and visually appealing web and mobile applications, as well as designing robust and efficient backend systems to power seamless user experiences.I am a recent IT graduate that is proficient in building dynamic and responsive web applications using React.js, Node.js, and FastAPI. I also build mobile apps using flutter
 
 *   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [sibandadonty@gmail.com](mailto:sibandadonty@gmail.com)
