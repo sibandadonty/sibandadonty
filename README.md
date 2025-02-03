@@ -8,5 +8,5 @@ I am a full-stack software developer with a passion for building intuitive, resp
 
 *   🌍  I'm based in Zimbabwe
 *   ✉️  You can contact me at [sibandadonty@gmail.com](mailto:sibandadonty@gmail.com)
-*   🧠  I'm learning Typescript
+*   🧠  I'm learning Typescript and NextJs
 *   🤝  I'm open to collaborating on machine learning, web and mobile applications projects
